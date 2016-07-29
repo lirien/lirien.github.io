@@ -8,12 +8,12 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Erin Sullivan
+title : Erin Sullivan's Webpage
 author :
-  name : Erin Sullivan 
+  name : Erin Sullivan
   email : erin.m.sullivan510@gmail.com
-  github : lirien 
-  twitter : lirien 
+  github : lirien
+  twitter : lirien
   feedburner : nil
 
 production_url : http://lirien.github.io/erin

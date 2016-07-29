@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Erin Sullivan
+title: Erin Sullivan's Stuff
 tagline: Fun computery things
 description: A place for Erin's personal projects
 ---
