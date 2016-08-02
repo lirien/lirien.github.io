@@ -7,19 +7,19 @@ description: A place for Erin's personal projects
 
 My name is **Erin Sullivan** and this is my little slice of the internet.
 
-I make things with technologies like **C**, **C++**, **Wi-Fi**, **USB**, **Arduino**, **Raspberry Pi**, and more. You can find some of the things I have made here.
+I make things with technologies like **C**, **C++**, **802.11**, **USB**, **Arduino**, **Raspberry Pi**, and more. You can find some of the things I have made here.
 
 <br><br>
 
 #### Projects
 
-- [A bear's phone](pages/test1.html)
+- [A bear's phone](https://lirien.itch.io/abearsphone)
 - _A novelty telephone that reads tweets with a Raspberry Pi_
 
-- [ASDCS](pages/test2.html)
-- _Active scanning-based dynamic channel switching for streaming high quality video over unreliable Wi-Fi networks_
+- [ASDCS](https://ir.library.oregonstate.edu/xmlui/handle/1957/56305)
+- _Active scanning-based dynamic channel switching for streaming high quality video over unreliable 802.11 networks_
 
-- [Capacitive Touch Children's Guitar](pages/test3.html)
+- [Capacitive Touch Children's Guitar](http://ir.library.oregonstate.edu/xmlui/handle/1957/17626)
 - _Toy built with Cypress CapSense technology_
 
 <br>
