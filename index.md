@@ -3,19 +3,25 @@ layout: page
 description: A place for Erin's personal projects
 ---
 
-hi there! i'm erin sullivan and you've found my personal website.
+#### Hello.
 
-my background is in computer engineering and i like making cool things with embedded devices (arm, arduino, raspberry pi).
+My name is **Erin Sullivan** and this is my little slice of the internet.
 
+I make things with technologies like **C**, **C++**, **Wi-Fi**, **USB**, **Arduino**, **Raspberry Pi**, and more. You can find some of the things I have made here.
 
-**Projects**
+<br><br>
+
+#### Projects
 
 - [A bear's phone](pages/test1.html)
-- [Active scanning-based dynamic channel switching (master's thesis)](pages/test2.html)
-- [Capacitive touch children's guitar](pages/test3.html)
-- [Development and software test adaptor board](pages/test4.html)
+- _A novelty telephone that reads tweets with a Raspberry Pi_
 
-**Contact**
+- [ASDCS](pages/test2.html)
+- _Active scanning-based dynamic channel switching for streaming high quality video over unreliable Wi-Fi networks_
 
-- [github](lirien.github.com)
-- [linkedin](https://www.linkedin.com/in/erinmsullivan510)
+- [Capacitive Touch Children's Guitar](pages/test3.html)
+- _Toy built with Cypress CapSense technology_
+
+<br>
+[<i class="fa fa-github"></i>](https://github.com/lirien)
+[<i class="fa fa-linkedin-square"></i>](https://www.linkedin.com/in/erinmsullivan510)
