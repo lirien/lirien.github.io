@@ -3,6 +3,8 @@ layout: page
 description: A place for Erin's personal projects
 ---
 
+<img src="me.jpg" class="circlepicture">
+
 #### Hello.
 
 My name is **Erin Sullivan** and this is my little slice of the internet.
@@ -12,6 +14,9 @@ I make things with technologies like **C**, **C++**, **802.11**, **USB**, **Ardu
 <br><br>
 
 #### Projects
+
+- [Mosh Bot](http://twitter.com/mosh_bot)
+- _Twitter bot that destroys trending gifs from GIPHY_
 
 - [A bear's phone](https://lirien.itch.io/abearsphone)
 - _A novelty telephone that reads tweets with a Raspberry Pi_
