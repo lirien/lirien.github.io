@@ -7,9 +7,9 @@ description: A place for Erin's personal projects
 
 #### Hello.
 
-My name is **Erin Sullivan** and this is my little slice of the internet.
+My name is **Erin Sullivan** and I’m a **computer engineer**.
 
-I make things with technologies like **C**, **C++**, **802.11**, **USB**, **Arduino**, **Raspberry Pi**, and more. You can find some of the things I have made here.
+I earned a Master of Science degree in **Electrical and Computer Engineering** in 2015, and now I work with technologies like **C/C++**, **Ruby**, **Python**, **Perl**, **H.264**, **802.11**, **Arduino**, **Raspberry Pi** and more. You can find some examples of my work here.
 
 <br><br>
 
