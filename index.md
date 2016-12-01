@@ -21,6 +21,9 @@ I earned a Master of Science degree in **Electrical and Computer Engineering** i
 - [A bear's phone](https://lirien.itch.io/abearsphone)
 - _A novelty telephone that reads tweets with a Raspberry Pi_
 
+- [Emoji Jam](http://emojam.club)
+- _Emoji theme generator for game jams_
+
 - [ASDCS](https://ir.library.oregonstate.edu/xmlui/handle/1957/56305)
 - _Active scanning-based dynamic channel switching for streaming high quality video over unreliable 802.11 networks_
 
