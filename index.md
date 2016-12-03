@@ -21,6 +21,9 @@ I earned a Master of Science degree in **Electrical and Computer Engineering** i
 - [A bear's phone](https://lirien.itch.io/abearsphone)
 - _A novelty telephone that reads tweets with a Raspberry Pi_
 
+- [Portland Home Bot](http://twitter.com/StumptownHomes)
+- _Generates descriptions of charming Portland homes_
+
 - [Emoji Jam](http://emojam.club)
 - _Emoji theme generator for game jams_
 
