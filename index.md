@@ -7,7 +7,7 @@ description: A place for Erin's personal projects
 
 #### Hello.
 
-My name is **Erin Sullivan** and I’m a **computer engineer**.
+My name is **Erin Sullivan** and I’m a **computer engineer**, currently employed at **Intel**. 
 
 I earned a Master of Science degree in **Electrical and Computer Engineering** in 2015, and now I work with technologies like **C/C++**, **Ruby**, **Python**, **Perl**, **H.264**, **802.11**, **Arduino**, **Raspberry Pi** and more. You can find some examples of my work here.
 
